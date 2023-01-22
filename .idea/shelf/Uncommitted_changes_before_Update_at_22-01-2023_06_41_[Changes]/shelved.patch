@@ -1,0 +1,13 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># News App\r\nFetch news from API and list them inside a RecyclerView.\r\n\r\n</br>\r\n</br>\r\n[![Watch this video](https://img.youtube.com/vi/ttIfesjYDQQ/0.jpg)] (https://www.youtube.com/watch?v=ttIfesjYDQQ)\r\n
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	
++++ b/README.md	
+@@ -3,4 +3,3 @@
+ 
+ </br>
+ </br>
+-[![Watch this video](https://img.youtube.com/vi/ttIfesjYDQQ/0.jpg)] (https://www.youtube.com/watch?v=ttIfesjYDQQ)
